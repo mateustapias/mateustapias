@@ -20,3 +20,11 @@ Sendo apaixonado por ciência, me mantenho sempre atualizado das novidades na á
 ### [Cine Search](https://github.com/mateustapias/cine-search)
 
 Um site de pesquisa de filmes com um toque de rede social feito em React e Node.js. A aplicação permite ao usuário criar suas próprias listas personalizadas de filmes, além de poder adicionar resenhas para que outros usuários interajam. Com um banco de dados e servidor online próprio, a aplicação depende apenas parcialmente de API’s externas para seu funcionamento. Por fim, ela também oferece autenticação de usuário e criptografia de senha para garantir a segurança dos dados.
+
+### [MyWallet](https://github.com/mateustapias/dig-wallet)
+
+Um site para facilitar a gestão de seus gastos, apresentando uma interface simples e intuitiva feita em React. A aplicação realiza requisições a API’s externas para adquirir a cotação das moedas em tempo real. Essa aplicação foi desenvolvida como um projeto no módulo de front-end do curso de desenvolvimento web da Trybe.
+
+### [Trybe FC](https://github.com/mateustapias/trybe-fc)
+
+Um site que permite ao usuário acompanhar todas as partidas da Série A (Campeonato Brasileiro) e, se for administrador, também alterar o placar e o status de uma partida, além de criar uma nova. Essa aplicação foi desenvolvida como um projeto no módulo de back-end do curso de desenvolvimento web da Trybe.
